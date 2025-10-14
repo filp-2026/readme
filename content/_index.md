@@ -53,8 +53,7 @@ toc: true
 
 Необходимо заполнить форму:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfu_nFp7gC9fR-_yDDTx3g3_fCPihFHjebLOaDl_aMOi_Fuxg/viewform?embedded=true" width="640" height="1012" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScw9RuGjC3jHKXNg0WoJBgX8E1XdpWnigUewY74kx4ExSjiQA/viewform?embedded=true" width="640" height="1012" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
 
 После чего вам на почту привязанную к аккаунту придет письмо с приглашением, ссылка будет доступна в течение 7 дней:
 ![](/images/invite_to_repo.png "Доступ к репозиторию с домашними работами")
@@ -77,10 +76,10 @@ toc: true
 
 | Группа | Организация в github                |
 |--------|-------------------------------------|
-| КН-201 | https://github.com/filp-2025-kn-201 |
-| КН-202 | https://github.com/filp-2025-kn-202 |
-| КН-203 | https://github.com/filp-2025-kn-203 |
-| Другая | https://github.com/filp-2025-other  |
+| КН-201 | https://github.com/filp-2026-kn-201 |
+| КН-202 | https://github.com/filp-2026-kn-202 |
+| КН-203 | https://github.com/filp-2026-kn-203 |
+| Другая | https://github.com/filp-2026-other  |
 
 2. В окне Intellij выбрать Get from VCS
    ![](/images/get_from_vcs.png "Get from vcs")

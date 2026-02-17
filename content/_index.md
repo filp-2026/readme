@@ -5,22 +5,21 @@ toc: true
 
 ### Установка Intellij IDEA
 
-1. Скачать и установить Intellij Idea Community
-   edition - [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
-1. Альтернативный вариант - воспользоваться Jetbrainds
-   Toolbox [https://www.jetbrains.com/lp/toolbox/](https://www.jetbrains.com/lp/toolbox/)
-2. Перейти во вкладку Plugins
-3. Далее необходимо установить плагин Scala:
-   ![](/images/scala_plugin.png "Скала плагин")
+1. Скачать и установить Intellij Idea - [https://www.jetbrains.com/idea/download/](https://www.jetbrains.com/idea/download/)
+2. Альтернативный вариант - воспользоваться Jetbrains Toolbox [https://www.jetbrains.com/toolbox-app/](https://www.jetbrains.com/toolbox-app/)
+3. Если при загрузке продукта вылетает ошибка, это значит, что нужно включить браузерный или ваш установленный на компьютер VPN
+4. Если с VPN возникли проблемы, и таким путем не получается скачать, 
+можно написать в телеграмм @ananastyyyyy, она скинет архивы с установочными файлами
 
 > Альтернативный вариант - VS Code + плагин Metals, но он значительно хуже заточен под работу со Scala, чем Intellij
-> IDEA и в это случае мы вряд ли сможем вам помочь :). Так же вы можете использовать Ultimate edition по студенческой
+> IDEA и в это случае мы вряд ли сможем вам помочь :). Так же вы можете использовать версию Ultimate edition по студенческой
 > лицензии - подробнее на сайте Jetbrains.
 
 ### В уже установленной Intellij IDEA
 
 1. Перейти в Файл > Настройки > Плагины > Установить Scala плагин
-
+   ![](/images/scala_plugin.png "Scala плагин")
+    
 ### Создание SSH ключа
 
 1. Windows
@@ -61,8 +60,8 @@ toc: true
 ### Регистрация на портале образования
 
 1. Зарегистрироваться на [https://edu.tinkoff.ru/](https://edu.tinkoff.ru/);
-2. Присоединиться к [курсу](https://edu.tbank.ru/all-activities/courses/0ed46107-432a-4921-84c1-db0e7d7dc1cf);
-3. Когда вы создадите Pull Request на гитхабе, нужно сдать соответствуещее ей задание в этом курсе - просто прикрепите в
+2. Присоединиться к [курсу](https://my.tbank.ru/edu/educate/course/96347666-c744-4dfa-ac1b-b11dc2a03d23/overview/program);
+3. Когда вы создадите Pull Request на гитхабе, нужно сдать соответствующее ему задание в этом курсе - просто прикрепите в
    поле для ответа ссылку на ваш PR. Баллы за задание тоже будут там.
 1. Перейдите на страницу нужной практики
    ![](/images/task_page.jpeg)
@@ -96,7 +95,7 @@ toc: true
     3. Java
         1. Нажать на кнопку Setup JDK
         2. Выбрать Download
-        3. выбрать 19 версию Oracle OpenJDK
+        3. выбрать 21 версию Oracle OpenJDK 
            ![](/images/setup_java.png "Setup java")
 
 5. Scala
